@@ -3,6 +3,19 @@
 
 <head>
 	<title>Gleb Modonov</title>
+
+	<script
+			src="https://code.jquery.com/jquery-3.7.1.min.js"
+			integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+			crossorigin="anonymous">
+	</script>
+
+	<script>
+		$(function(){
+			$("#sidebar").load("/sidebar.html");
+		});
+	</script>
+	
 	<meta name="description" content="The online portfolio of Gleb Modonov.">
 	<meta property="og:title" content="The online portfolio of Gleb Modonov.">
 	<meta property="og:description" content="Unity Programmer PC | Mobile | VR">
@@ -14,85 +27,7 @@
 
 <body class="color dark">
 	<div id="wrapper">
-		<div class="sidebar">
-			<div class="scrollable">
-				<div class="content">
-					<header class="bigLogo">
-						<a>
-							<h1 class="">Gleb Modonov</h1>
-							<h2 class="tagline ">Unity Programmer <br> PC | Mobile | VR</h2>
-							<h2 class="tagline ">Moscow, Russia</h2>
-						</a>
-					</header>
-					<nav on-insert="nav:setup">
-						<!-- 
-						<ul class="siteLinks">
-							<li id="homeLink" class="current "> <a href="index.htm">Work</a>
-							</li>
-							<li id="aboutLink" class=" "> <a href="/about">About</a>
-							</li>
-							<li id="contactLink" class=" "> <a href="/contact">Contact</a>
-							</li>
-						</ul>
-						-->
-						<hr>
-						<ul class="projectLinks">
-							<li id="project6411729Link" class=""> <a class="thumbnail" href="/projects/Modeling_Animation/">Art, Modeling &amp; Animation</a>
-							</li>
-							<li id="project6411729Link" class=""> <a class="thumbnail" href="/projects/Prototyping/">Prototyping</a>
-							</li>
-						</ul>
-						<hr>
-						<ul class="projectLinks">
-							<li id="project5693628Link" class=""> <a class="thumbnail" href="/projects/Artificial_Death/">Artificial Death</a>
-							</li>
-							<li id="project6405493Link" class=""> <a class="thumbnail" href="/projects/kitchen_VR/">kitchen VR</a>
-							</li>
-							<li id="project6405499Link" class=""> <a class="thumbnail" href="/projects/Desert_Kill/">Desert Kill</a>
-							</li>
-							<li id="project6405491Link" class=""> <a class="thumbnail" href="/projects/ZIC/">ZIC: Zombies In City</a>
-							</li>
-							<li id="project6411729Link" class=""> <a class="thumbnail" href="/projects/Crystal_Kill/">Crystal Kill</a>
-							</li>
-							<li id="project6411729Link" class=""> <a class="thumbnail" href="/projects/Ballista_Legend/">Ballista Legend</a>
-							</li>
-							<li id="project6411729Link" class=""> <a class="thumbnail" href="/projects/Wizard_Kill/">Wizard Kill</a>
-							</li>
-							<li id="project6411729Link" class=""> <a class="thumbnail" href="/projects/Crossroad_Extreme/">Crossroad Extreme</a>
-							</li>
-							<li id="project6411729Link" class=""> <a class="thumbnail" href="/projects/UFO_2/">UFO 2</a>
-							</li>
-							<li id="project6411729Link" class=""> <a class="thumbnail" href="/projects/Walrus_Tears/">Walrus Tears</a>
-							</li>
-						</ul>
-					</nav>
-					<footer id="footer">
-						<carbon-branding>
-							<a href="https://www.youtube.com/channel/UCEqQQtYy_4160e_d26mQLYQ">
-								<span>Youtube</span>
-							</a>
-							<br>
-							<a href="https://www.instagram.com/oblong_moved/">
-								<span>Instagram</span>
-							</a>
-							<br>
-							<a href="https://twitter.com/oblong_moved">
-								<span>Twitter</span>
-							</a>
-						</carbon-branding>
-						
-						<div id="rights">
-							<p id="footerContent">© 2021</p>
-						</div>
-						<carbon-branding>
-							<!-- <a> -->
-								<span>Glitch Crew</span>
-							<!-- </a> -->
-						</carbon-branding>
-					</footer>
-				</div>
-			</div>
-		</div>
+		<div id="sidebar"></div>
 		<main role="main">
 			<ul class="projects wide">
 				<li class="thumb project placeholder ">
