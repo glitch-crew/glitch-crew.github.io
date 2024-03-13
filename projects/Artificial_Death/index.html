@@ -15,7 +15,7 @@
 
 <body class="color dark">
 	<div id="wrapper">
-		#include file="sidebar.html"
+		<div class="sidebar"></div>
 		<main role="main">
 			<div class="details top">
 				<h1>Artificial Death</h1>
@@ -139,6 +139,12 @@
 	<!-- <script src="../../assets/js/router.js"></script> -->
 	<!-- <script src="../../assets/js/player.js"></script> -->
 	<!-- <script src="../../assets/js/app.js"></script> -->
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+	<script>
+		$(function (){
+			$('#sidebar').load('sidebar.html');
+		});
+	</script>
 </body>
 
 </html>
