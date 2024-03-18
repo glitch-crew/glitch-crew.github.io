@@ -609,7 +609,7 @@ h1.logo {
 header h2 {
   font-style: normal;
   font-size: 18px;
-  opacity: 0.4;
+  /*opacity: 0.4;*/
   font-weight: 300;
   display: inline-block;
   margin-top: 5px;
@@ -1237,7 +1237,7 @@ carbon-container object {
 .details iframe { width: 100%; }
 .details h5 { padding-top: 3px; }
 .details p {
-  margin: 0 0 1em;
+  /*margin: 0 0 1em;*/
   font-size: 15px;
   width: 100%;
   overflow: hidden;
