@@ -1672,7 +1672,7 @@ footer a { color: #1f9bb6; }
 .projects .project .bg { background: #1f9bb6; }
 .form button:hover { background: #1f9bb6; }
 .link:hover { border-bottom: 1px solid #1f9bb6; }
-h2:first-child { color: #1f9bb6 !important; }
+h2 { color: #1f9bb6 !important; }
 h2 a,
 .accent a {
   padding-bottom: 1px;
