@@ -548,7 +548,7 @@ carbon-grid {
 /* imported: '/styles/parts/nav.scss */
 
 .sidebar {
-  position: fixed;
+  position: relative;
   display: block;
   width: 270px;
   top: 0;
