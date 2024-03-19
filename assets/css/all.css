@@ -547,8 +547,13 @@ carbon-grid {
 .zoomable { cursor: zoom-in; }
 /* imported: '/styles/parts/nav.scss */
 
-.sidebar {
+#sidebar {
   position: relative;
+  z-index: 2;
+}
+
+.sidebar {
+  position: fixed;
   display: block;
   width: 270px;
   top: 0;
