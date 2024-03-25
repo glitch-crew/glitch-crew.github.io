@@ -1,0 +1,159 @@
+About me
+Hi! I’ve been making games for over eight years now, starting with Pygame and Game Maker Studio and eventually switching to Unity. Video games always had an important role in my life, so that’s why I’ve decided to become a game maker.
+
+I’ve always admired solo developers who can build a functional game from scratch and eventually I’ve become one. I prefer working solo or teaming up for 2D/3D artists. I absolutely love the feeling of opening a new Unity project.
+
+Currently residing in Montenegro.
+
+Skills
+• Game Design
+• Programming (C#, Python)
+• 3D Modeling (Blender)
+• Animation (Blender, Unity)
+• Level Design
+• Writing
+• Git
+
+Experience
+• Unity Developer at Megame Games
+   Sep 2016 - Jun 2019
+• Unity Developer at Dvrai Studio
+   Jan 2019 - Mar 2019
+• Unity Developer at Azur Games
+   Aug 2019 - Present
+• Occasional freelance
+   2017 - Present
+
+Education
+• Bachelor in Software Engineering and Computer Administration
+   Irkutsk State University - 2016
+
+Contacts
+gleb.modonov@gmail.com
+
+
+Room Crash
+
+Release your anger in this nice, stress-reducing game.
+I've always wanted to make a game with extensive usage of fracturing mechanic and here it is!
+
+TIP: It's better to vent out in a video game than in real life.
+
+Spot Me!
+
+Help the people of these islands to find all differences!
+There are many find-the-difference type of games out there but most of them are 2D.
+I've challenged myself to implement the idea in 3D and learned a lot about level design as a bonus.
+
+Queue Sort
+
+Sort lines of clients, pay attention to colors and earn money.
+I like color sorting games and this is my take on this popular genre.
+
+Crowd Photo
+
+Move characters in frame view to make a wonderful photo.
+Snap good photo shots and get tons of likes!
+
+Pipe Flow
+
+Control the flow of pipes and fill all carts accordingly.
+
+Armored Robots
+
+Merge robot parts to make your own metal warrior.
+Blow your enemies into tiny pieces.
+
+Word Run
+
+Spell all the words correctly and outrun your enemies.
+
+World of 2048
+
+My take on the popular genre.
+It took quite some time to put these tiles together but I'm very happy with the result.
+
+Ballista Legend
+
+Yet another take on Zuma.
+
+Socks Re-pair
+
+Help all these socks find their matches.
+
+This project has started as a game jam prototype but later was developed in a separate game.
+
+Death List
+
+Type the names of your enemies!
+Defeat crowds of your enemies to beat levels. Watch their defeat by using magical book. But beware! If you type too slow or incorrectly - you will lose...
+
+Room Hit
+
+Smash all room by throwing balls.
+Travel through many different apartments and houses and destroy evil rainbow crystal that drains people power and haunts their every day.
+
+Draw 2 Run
+
+Draw shapes to overcome obstacles and reach the finish line.
+In this runner/drawing game you have to use different environmental elements to defeat your enemies and complete the levels: fire, ice, lightning and even the help from UFO. All you have to do is to draw magical shapes properly and you'll have your victory.
+
+Drink It
+
+Your customers are thirsty! Don't let them leave.
+Use your drink hose to make them happy.
+
+Pac-Boy.io
+
+Combination of arcade-era Pac-Mac mechanic with modern .io games.
+
+Crystal Kill
+
+MOBA clicker prototype made and released in several days.
+Destroy enemy's base before they destroy yours by creating a bunch of golems.
+
+Wizard Kill
+
+A small prototype made and released in 4 days. Charge the spell and cast it towards your enemies. Repeat until they all are defeated.
+For 1-4 players.
+
+Spin It
+
+Defend you backyard.
+Don't let them too close!
+
+Artificial Death
+
+Artificial Death is a Robot Combat / Deck-Building game.
+Join this brutal intergalactic tournament and prove your worth. Build your robots and kill your opponents!
+
+FACT: Made this in one year at my spare time.
+
+Desert Kill
+
+DESERT KILL is a roguelite top-down shooter, you have to destroy evil forces in the most brutal way!
+The world was stuck in endless wars. Conflict of interest led to a global cataclysm and a most of our planet became a lifeless desert.
+The toughest and incredibly dangerous killers splitted in two camps - those who want to save the remnants of our world and those who are eager to seize absolute power!
+Choose your hero and stop the evil!
+
+UFO 2
+
+An unfinished prototype.
+Cool 2D action game for two players about UFO combats on Earth. Select your ship and fight enemy ship with lots of different weapons.
+Made in Game Maker Studio.
+
+kitchen VR
+
+This is a VR kitchen constructor prototype for B2B project. You can change facades, textures and handles for individual modules or for the entire kitchen. All doors and drawers are fully interactable.
+
+BONUS FEATURE: Destructible dishes.
+
+Prototyping
+
+A bunch of prototypes. Mostly unfinished.
+Made in Blender and Unity.
+
+Modeling & Animation
+
+A bunch of stuff I made for practice or just for fun.
+Made in Blender, MagicaVoxel and Unity.
